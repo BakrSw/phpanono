@@ -5,3 +5,5 @@ git commit -m "messages"
 git status
 git push to upload 
 git pull to download 
+git log =remove conflect
+
