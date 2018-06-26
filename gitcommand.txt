@@ -1,2 +1,5 @@
 touch +filename.txt => create file usend termnal
+git clone+url =>download directory from git to local
+git add + filename
+git commit -m "messages"
 
